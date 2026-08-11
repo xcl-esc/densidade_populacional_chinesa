@@ -27,21 +27,21 @@ Uma análise e predição sobre a densidade populacional e econômica chinesa ut
 ## 🚀 Como Executar o Projeto Localmente
 
 1. **Clonar o repositório:**
-   
-   git clone (https://github.com/xcl-esc/densidade_populacional_chinesa.git)
+   ```bash
+   git clone [https://github.com/xcl-esc/densidade_populacional_chinesa.git](https://github.com/xcl-esc/densidade_populacional_chinesa.git)
    cd densidade_populacional_chinesa
 
 2. **Ativar o ambiente virtual e instalar dependências:**
-
-    # Ative seu ambiente virtual
+    ```powershell
+    ### Ative seu ambiente virtual
     .\venv\Scripts\Activate.ps1
 
-    # Instale os pacotes necessários
+    ### Instale os pacotes necessários
     pip install -r requirements.txt
 
 3. **Abrir a exploração de dados:**
     Abra o VS Code e navegue até a pasta notebooks/ para rodar as análises interativas.
-
+    ```text
     📁 Estrutura do Repositório (Project Organization)
 
     ├── LICENSE             <- Licença open-source (MIT)
@@ -71,6 +71,7 @@ Uma análise e predição sobre a densidade populacional e econômica chinesa ut
         └── modeling           <- Scripts de treino e inferência dos modelos
             ├── predict.py
             └── train.py
+    ```
 
 
 
