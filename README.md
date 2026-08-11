@@ -28,7 +28,7 @@ Uma análise e predição sobre a densidade populacional e econômica chinesa ut
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/xcl-esc/densidade_populacional_chinesa.git](https://github.com/xcl-esc/densidade_populacional_chinesa.git)
+   git clone (https://github.com/xcl-esc/densidade_populacional_chinesa.git)
    cd densidade_populacional_chinesa
 
 2. **Ativar o ambiente virtual e instalar dependências:**
